@@ -1,0 +1,10 @@
+id,email,status,amountCents
+1,test1@gmail.com,NEW,1000
+2,test2@gmail.com,PAID,2500
+3,test3@gmail.com,FAILED,500
+4,test4@gmail.com,PAID,3000
+
+5,test5@gmail.com,PAID,not_a_number
+6,test6@gmail.com,UNKNOWN,1200
+7,test7@gmail.com,NEW,700
+8,test8@gmail.com,PAID,1500
